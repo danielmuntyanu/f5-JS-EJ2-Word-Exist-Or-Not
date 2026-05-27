@@ -15,7 +15,6 @@
 
 
 ## Los tests:
-
-![Test completed]("./assets/images/tests.png")
+![Test completed](./assets/images/tests.png)
 
 
